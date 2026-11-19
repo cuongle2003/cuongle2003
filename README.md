@@ -59,8 +59,8 @@ I am particularly interested in bridging the gap between theoretical control met
 
 ## Contact
 
-- GitHub: @cuongle2003
-- Email: cuong.leqc@gmail.com
+- **GitHub**: [@cuongle2003](https://github.com/cuongle2003)
+- **Email**: cuong.leqc@gmail.com
 <!--
 - Phone: +084 859801352
 - Facebook:
