@@ -42,6 +42,7 @@ I am particularly interested in bridging the gap between theoretical control met
 | Reinforcement Learning | PyTorch, NVIDIA IsaacLab |
 | Embedded Systems | Arduino, STM32, Raspberry Pi , FreeRTOS |
 | Documentation & Office Tools | Microsoft office, LaTeX |
+| Mechanical Design & CAD | SolidWorks, Autodesk Inventor & AutoCAD, FreeCAD |
 | Development Tools | Git, GitHub |
 
 ## Key Areas
